@@ -43,8 +43,6 @@ This is a Weather application which will give the current weather and temperatur
 * Its fully responsive
 * Interactive and user friendly UI with user input
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -54,8 +52,6 @@ This section includes the tech-stack of the project :
 * JavaScript
 * NodeJS
 * API integration 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -80,8 +76,6 @@ This section includes the tech-stack of the project :
    ```sh
    npm install
    ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
