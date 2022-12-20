@@ -61,12 +61,11 @@ This section includes the tech-stack of the project :
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
 1. Clone the repo
    ```sh
    git clone https://github.com/riyarana10/weatherCheck.git
    ```
-3. Install NPM packages
+2. Install NPM packages
    ```sh
    npm install
    ```
